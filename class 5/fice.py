@@ -58,10 +58,12 @@ print("hello")
 #     print('Invalid email')
 
 
-patient = input('Enter ')
-if patient == 'diabaties':
-    print('meetha kam khao')
-elif patient == 'cancer':
-    print('gin gin ke sanse lo')
-else:
-    print('sad')
+# patient = input('Enter ')
+# if patient == 'diabaties':
+#     print('meetha kam khao')
+# elif patient == 'cancer':
+#     print('gin gin ke sanse lo')
+# else:
+#     print('sad')
+
+
