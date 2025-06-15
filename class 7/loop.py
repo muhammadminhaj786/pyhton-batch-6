@@ -56,12 +56,22 @@
 # else: 
 #     print("even")
 
-a = int(input("Enter your start num"))
-b= int(input("Enter your second num"))
+# a = int(input("Enter your start num"))
+# b= int(input("Enter your second num"))
 
-for i in range(a, b):
+# for i in range(a, b):
 
-    if i % 2 == 0:
-        print("even ", i)
-    else: 
-        print("odd")
+#     if i % 2 == 0:
+#         print( i)
+    
+
+
+
+num1 = int(input("Enter start point"))
+num2 = int(input("Enter end point"))
+num3 = 0
+
+for i in range(num1,num2):
+    num3 = num3 + i
+
+print(num3)
