@@ -22,5 +22,24 @@ def login(email,password):
 std1 = 'minhaj'
 std2 = 'ali'
 
-std = ['minhaj',"ali","kamran"]
+#indexing
+
+std = ['minhaj',"ali","kamran", "ahmed"]
+print(std[0])
+
+#add value in list   append
+std.append('waqas')
+print(std)
+
+#index:length
+
+print(std[0:3])
+
+#update value in list
+std[1] = "daniyal"
+
+print(std)
+
+#delete value in list   remove
+std.remove('danyal')
 print(std)
