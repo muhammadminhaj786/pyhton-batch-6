@@ -39,3 +39,12 @@
 #     print('bye')
 
 # print('sab shi he ')
+
+import math_utils as mu
+print(mu.mul(4,5))
+
+import numpy as np
+print(np.__version__)
+
+arr = np.array([1,2,3])
+print(type(arr))
