@@ -1,0 +1,20 @@
+
+
+download git
+make repo in github
+
+
+------->
+git init
+git add .
+git config --global suser.name ahasanahamede7
+git config --global user.email examp@gmail.com
+git commit -m "first"
+git branch -M main
+
+----->
+git add .
+git commit -m "second"
+git push -u origin main
+
+---->>
